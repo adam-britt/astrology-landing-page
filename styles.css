@@ -4,4 +4,24 @@ body {
 	background-repeat: no-repeat;
 	color: white;
 }
-
+h2 {
+	float: left;
+	margin-left: 2.5rem;
+	margin-right: 41.7rem;
+	font-size: 2rem;
+}
+ul {
+	float: left;
+	list-style: none;
+	font-size: 2rem;
+}
+li {
+	float: left;
+}
+a {
+	text-decoration: none;
+	color: tan;
+}
+.list-item {
+	margin-right: 4rem;
+}
