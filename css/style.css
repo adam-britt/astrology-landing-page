@@ -45,7 +45,15 @@ h1 {
   border: 3px solid white;
   padding: 1rem;
   margin-top: 10%;
-  margin-bottom: 30%;
+}
+
+/* Content */
+p {
+  clear: both;
+  float: left;
+  border: 3px solid white;
+  padding: 1rem;
+  margin-bottom: 20%;
 }
 
 
