@@ -58,6 +58,21 @@ section div h1 {
   margin-bottom: 50%;
 }
 
+/* DISCIPLINE */
+.section-1 .header-1 {
+  font-size: 40pt;
+  margin-top: 25%;
+  margin-bottom: 37%;
+}
+
+/* AUGUST 2018 TRANSITS */
+.section-2 {
+  color: black;
+}
+.section-2 .lorem {
+  border: 3px solid black;
+}
+
 /* ABOUT */
 .section-3 {
   color: black;
