@@ -39,16 +39,17 @@ a {
 /* MY PRIMARY STYLES */
 
 /* HEADERS */
-h1 {
+section div h1 {
   clear: both;
   float: left;
   border: 3px solid white;
   padding: 1rem;
   margin-top: 25%;
+  
 }
 
 /* Content */
-p {
+.lorem {
   clear: both;
   float: left;
   border: 3px solid white;
@@ -57,21 +58,30 @@ p {
 }
 
 
+/* READINGS */
+.header-4 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
 .reading {
-  clear: both;
   float: left;
+  margin-left: 21%;
   border: 3px solid white;
   padding: 1rem;
+  height: 30rem;
+  width: 30rem;
 }
 .reading-1 {
-
+  clear: both;
+  margin-bottom: 5%;
 }
 .reading-2 {
-  float: left;
+  margin-bottom: 5%;
 }
 .reading-3 {
-  float: left;
-  margin-bottom: 30%;
+  clear: both;
+  margin-left: 41%;
+  margin-bottom: 20%;
 }
 
 
