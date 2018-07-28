@@ -38,7 +38,7 @@ a {
 
 /* MY PRIMARY STYLES */
 
-/* Headers */
+/* HEADERS */
 h1 {
   clear: both;
   float: left;
@@ -55,6 +55,25 @@ p {
   padding: 1rem;
   margin-bottom: 35%;
 }
+
+
+.reading {
+  clear: both;
+  float: left;
+  border: 3px solid white;
+  padding: 1rem;
+}
+.reading-1 {
+
+}
+.reading-2 {
+  float: left;
+}
+.reading-3 {
+  float: left;
+  margin-bottom: 30%;
+}
+
 
 
 /* -------------------------------- 
