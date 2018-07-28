@@ -58,6 +58,13 @@ section div h1 {
   margin-bottom: 50%;
 }
 
+/* ABOUT */
+.section-3 {
+  color: black;
+}
+.section-3 .lorem {
+  border: 3px solid black;
+}
 
 /* READINGS */
 .section-4 {
