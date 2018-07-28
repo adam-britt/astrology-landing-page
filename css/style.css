@@ -43,7 +43,8 @@ section div h1 {
   clear: both;
   float: left;
   padding: 1rem;
-  margin-top: 25%;
+  margin-top: 5%;
+  margin-bottom: 5%;
   width: 100%;
   text-align: center;
 }
@@ -54,22 +55,21 @@ section div h1 {
   float: left;
   border: 3px solid white;
   padding: 1rem;
-  margin-bottom: 35%;
+  margin-bottom: 50%;
 }
 
 
 /* READINGS */
 .section-4 {
-  color: black;
+  color: white;
 }
 .header-4 {
-  margin-top: 5%;
-  margin-bottom: 5%;
+  
 }
 .reading {
   float: left;
   margin-left: 21%;
-  border: 3px solid black;
+  border: 3px solid white;
   padding: 1rem;
   height: 30rem;
   width: 30rem;
