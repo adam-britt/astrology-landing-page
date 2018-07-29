@@ -60,7 +60,7 @@ section div h1 {
 
 /* DISCIPLINE */
 .header-1 {
-  font-size: 40pt;
+  font-size: 44pt;
   margin-top: 25%;
   margin-bottom: 37%;
 }
@@ -70,7 +70,7 @@ section div h1 {
   color: black;
 }
 .header-2 {
-  font-size: ;
+  font-size: 33pt;
 }
 .section-2 .lorem {
   border: 3px solid black;
@@ -81,7 +81,7 @@ section div h1 {
   color: black;
 }
 .header-3 {
-  font-size: ;
+  font-size: 33pt;
 }
 .section-3 .lorem {
   border: 3px solid black;
@@ -92,7 +92,7 @@ section div h1 {
   color: white;
 }
 .header-4 {
-  font-size: ;
+  font-size: 33pt;
 }
 .reading {
   float: left;
