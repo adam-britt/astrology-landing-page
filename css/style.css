@@ -80,8 +80,12 @@ section div h1 {
   border: 3px solid black;
   font-size: 22pt;
 }
+.section-2 li {
+  margin-left: 2%;
+  margin-top: 2%;
+}
 .section-2 .last-transit {
-
+  margin-bottom: 2%;
 }
 
 /* ABOUT */
