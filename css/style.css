@@ -49,7 +49,7 @@ section div h1 {
   text-align: center;
 }
 
-/* Content */
+/* CONTENT */
 .lorem {
   clear: both;
   float: left;
@@ -59,7 +59,7 @@ section div h1 {
 }
 
 /* DISCIPLINE */
-.section-1 .header-1 {
+.header-1 {
   font-size: 40pt;
   margin-top: 25%;
   margin-bottom: 37%;
@@ -69,6 +69,9 @@ section div h1 {
 .section-2 {
   color: black;
 }
+.header-2 {
+  font-size: ;
+}
 .section-2 .lorem {
   border: 3px solid black;
 }
@@ -76,6 +79,9 @@ section div h1 {
 /* ABOUT */
 .section-3 {
   color: black;
+}
+.header-3 {
+  font-size: ;
 }
 .section-3 .lorem {
   border: 3px solid black;
@@ -86,7 +92,7 @@ section div h1 {
   color: white;
 }
 .header-4 {
-  
+  font-size: ;
 }
 .reading {
   float: left;
