@@ -72,8 +72,16 @@ section div h1 {
 .header-2 {
   font-size: 33pt;
 }
-.section-2 .lorem {
+.section-2 .transits {
+  margin-left: 7%;
+  margin-bottom: 50%;
+  width: 40%;
+  float: left;
   border: 3px solid black;
+  font-size: 22pt;
+}
+.section-2 .last-transit {
+
 }
 
 /* ABOUT */
