@@ -80,11 +80,19 @@ section div h1 {
   border: 3px solid black;
   font-size: 22pt;
 }
-
-.section-2 li {
-  margin-left: 2%;
-  margin-top: 2%;
+.section-2 .transit-times {
+  margin-left: 1%;
+  margin-bottom: 50%;
+  width: 9%;
+  float: left;
+  border: 3px solid black;
+  font-size: 22pt;
 }
+.section-2 div ul li {
+  margin-left: 2%;
+  margin-top: 16%;
+}
+
 .section-2 .last-transit {
   margin-bottom: 2%;
 }
