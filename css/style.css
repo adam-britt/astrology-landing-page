@@ -75,27 +75,39 @@ section div h1 {
 }
 .section-2 .transit-dates {
   margin-left: 7%;
-  margin-bottom: 33%;
+  margin-bottom: 51%;
   width: 5%;
   float: left;
-  border: 3px solid black;
+  border: 3px solid transparent;
   font-size: 22pt;
+}
+.transit-dates li {
+  margin-left: 2%;
+  margin-top: 54.5%;
 }
 .section-2 .transit-times {
-  margin-left: 1%;
-  margin-bottom: 50%;
+  margin-left: 2%;
+  margin-bottom: 51%;
   width: 9%;
   float: left;
-  border: 3px solid black;
+  border: 3px solid transparent;
   font-size: 22pt;
 }
-.section-2 div ul li {
+.transit-times li {
   margin-left: 2%;
-  margin-top: 16%;
+  margin-top: 29%;
 }
-
-.section-2 .last-transit {
-  margin-bottom: 2%;
+.section-2 .transit-details {
+  margin-left: 2%;
+  margin-bottom: 51%;
+  width: 35%;
+  float: left;
+  border: 3px solid transparent;
+  font-size: 22pt;
+}
+.transit-details li {
+  margin-left: 2%;
+  margin-top: 7.2%;
 }
 
 /* ABOUT */
